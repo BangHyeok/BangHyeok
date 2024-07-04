@@ -15,8 +15,6 @@
 </br>
 
 ### 🛠 Skill Stacks
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonbaejun&layout=demo&theme=demo) -->
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![java](https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,12 +24,9 @@
 ![springboot](https://img.shields.io/badge/Springboot-6DB33F.svg?&style=for-the-badge&logo=Springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-
-</br>
 </br>
 
 <h3>Problem Solving</h3>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhe0323)](https://solved.ac/bhe0323)
 
 ### 📙 Blog
