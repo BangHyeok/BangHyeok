@@ -26,7 +26,8 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </br>
 
-<h3>Problem Solving</h3>
+<h3>🧐 Problem Solving</h3>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhe0323)](https://solved.ac/bhe0323)
 
 ### 📙 Blog
